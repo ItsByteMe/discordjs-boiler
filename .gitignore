@@ -5,5 +5,7 @@ logs/
 .vscode/
 
 # Files
+
+# Uncomment the following line once you add your token to the .env
 # .env
 
