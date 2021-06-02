@@ -22,9 +22,9 @@ npm install
 BOT_TOKEN=whateveryourtokenis
 ```
 
-3. Uncomment the .env line in the .gitignore.
+3. Comment the .env line in the .gitignore.
 
 ```
-# Uncomment the following line once you add your token to the .env
+# Comment the following line once you add your token to the .env
 .env
 ```
